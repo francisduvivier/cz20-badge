@@ -1,4 +1,4 @@
-# cz20-badge
+# cz20-badge fork
 Event badge for CampZone 2020
 
 ![firmware-ESP32 build](https://github.com/tjclement/cz20-badge/workflows/firmware-ESP32%20build/badge.svg)
